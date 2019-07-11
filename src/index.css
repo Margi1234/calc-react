@@ -7,7 +7,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 .calc-card {
-  height: 400px;
+  height: 350px;
   width: 235px;
   display: flex;
   flex-direction: column;
